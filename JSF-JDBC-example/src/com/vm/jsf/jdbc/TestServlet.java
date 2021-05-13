@@ -1,4 +1,4 @@
-package main;
+package com.vm.jsf.jdbc;
 
 import java.io.IOException;
 import java.io.PrintWriter;

@@ -1,5 +1,4 @@
-package main;
-
+package com.vm.jsf.jdbc;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

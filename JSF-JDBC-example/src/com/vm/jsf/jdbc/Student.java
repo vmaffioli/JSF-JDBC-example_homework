@@ -1,4 +1,4 @@
-package main;
+package com.vm.jsf.jdbc;
 
 import javax.faces.bean.ManagedBean;
 
